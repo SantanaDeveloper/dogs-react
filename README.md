@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> • 
-  <a href="#-instalacao">Instalação</a> • 
+  <a href="#-sobre">Sobre</a> • 
+  <a href="#-instalação">Instalação</a> • 
   <a href="#-contribuicao">Contribuição</a>
 </p>
 
@@ -24,18 +24,18 @@
   <img alt="Portfólio" src=".github/capa.png" width="100%">
 </p>
 
-# 💻 Sobre
+## 💻 Sobre
 
 Uma rede social para cachorros. <br>
 Onde o usuário pode se cadastrar, fazer uploads das suas imagens e ter estatisticas do seu perfil e do quanto ele foi visualizado.<br>
 Projeto realizado na conclusão do curso React Completo da escola Origamid. 💜<br><br>
 
-# 🚀 Instalação
+## 🚀 Instalação
 
 Para baixar o projeto siga as instruções abaixo:
 
 ```sh
-git clone https://github.com/falaigor/social-dogs.git
+git clone https://github.com/SantanaDeveloper/dogs-react.git
 
 cd social-dogs
 ```
@@ -54,7 +54,7 @@ npm install
 npm start
 ```
 
-# :handshake: Contribuição
+## :handshake: Contribuição
 
 <p>
 Este projeto é para fins de estudo também, então me mande um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe.<br><br>
