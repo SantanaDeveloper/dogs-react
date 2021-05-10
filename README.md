@@ -54,7 +54,7 @@ npm install
 npm start
 ```
 
-## :handshake: Contribuição
+## 🤝 Contribuição
 
 <p>
 Este projeto é para fins de estudo também, então me mande um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe.<br><br>
