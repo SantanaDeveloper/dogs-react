@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#-sobre">Sobre</a> • 
   <a href="#-instalação">Instalação</a> • 
-  <a href="#-contribuicao">Contribuição</a>
+  <a href="#-contribuição">Contribuição</a>
 </p>
 
 <p align="center">
